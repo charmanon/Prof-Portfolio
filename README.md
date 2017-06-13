@@ -2,5 +2,5 @@
 
 ## Live Link
 
-[Charlotte Anongos Portfolio](www.charlotteanongos.com)
+[Charlotte Anongos Portfolio](https://www.charlotteanongos.com)
 
